@@ -46,7 +46,7 @@ const products = [
     name: 'USB-C Hub',
     description: '7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader.',
     price: 49.99,
-    image: 'https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=500',
+    image: 'https://images.unsplash.com/photo-1626241644490-9c8cb4886b9b?w=500',
   },
   {
     id: 8,
